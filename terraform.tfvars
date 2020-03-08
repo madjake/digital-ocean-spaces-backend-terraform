@@ -1,0 +1,5 @@
+project_name="tlf"
+do_environment="production"
+host_server_instance_image="ubuntu-18-04-x64"
+host_server_instance_type="s-4vcpu-8gb"
+host_server_instance_region="nyc1"

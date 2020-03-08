@@ -1,0 +1,8 @@
+bucket = "unqiue-terraform-backend-bucket-name"
+endpoint = "https://nyc3.digitaloceanspaces.com"
+key    = "terraform.tfstate"
+region = "us-east-1"
+access_key = "xxxxxxxxxx"
+secret_key = "xxxxxxxxxx"
+skip_credentials_validation = true
+skip_metadata_api_check = true
